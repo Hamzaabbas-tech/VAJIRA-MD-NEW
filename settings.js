@@ -5,7 +5,7 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-SESSION_ID: process.env.SESSION_ID  'V
+SESSION_ID: process.env.SESSION_ID  '
     VAJIRA-MD=PckBRDib#oVhZfJ1XJyddotBIU5313L7eR_wrCQByd8A5JiDO7uc' : process.env.SESSION_ID,
 OWNER_NUMBER: process.env.OWNER_NUMBER '+923091619697' : process.env.OWNER_NUMBER,   
 ONLY_GROUP: process.env.ONLY_GROUP === undefined ? 'false' : process.env.ONLY_GROUP,
